@@ -1,0 +1,5 @@
+# Bu proje hiçbir dış kütüphane kullanmaz.
+# Sadece Python'un kalbi yeter.
+# Ama istersen çay da koyabilirsin.
+
+# Python >= 3.6
